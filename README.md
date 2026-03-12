@@ -1,4 +1,4 @@
-# AI Learning Platform Chatbot (n8n + Gemini)
+# AI Learning Platform Chatbot (n8n)
 
 This project is an AI-powered chatbot built using **n8n** .\
 The chatbot helps users get information about courses and frequently
